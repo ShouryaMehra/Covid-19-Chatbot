@@ -1,0 +1,4 @@
+ipython
+requests
+flask==1.1.2
+python-dotenv==0.18.0
